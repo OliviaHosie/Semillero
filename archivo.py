@@ -1,8 +1,8 @@
 import numpy as np 
 import os
 
-#Linea de base
-import matplotlib.pyplot as plt 
+#Experimento 3 con open cv
+import cv2 
 
 
 
